@@ -1,0 +1,25 @@
+# helix-console
+
+Authenticated product UI, configuration, playgrounds and approval screens.
+
+| | |
+|---|---|
+| Ownership group | Product Experience and Documentation |
+| Primary form | Browser TypeScript |
+| Visibility | PUBLIC |
+| Status | **Design phase.** Nothing here is implemented or supported yet. |
+
+Design source of truth: the private `helix-atlas` repository (`architecture/repos/helix-console.md`).
+Organization master prompt: PgHelix Organization Master Prompt, 16 Oct 2026.
+
+## Build and test
+
+`npm test (build-time Node only)` — to be wired up when the first implementation milestone lands.
+
+## License
+
+Not yet decided. The license is an ADR in `helix-atlas`; until it is accepted, no license is granted and all rights are reserved.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
